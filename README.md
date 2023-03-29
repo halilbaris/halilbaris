@@ -1,10 +1,10 @@
 <h1>Hi, I'm Baris! <br/><a href="https://github.com/halilbaris">Cybersecurity Analyst 
 Electronic enthusiastic </a>, <a href="https://www.linkedin.com/in/halilbaris/">Cybersecurity Professional</a> </h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Electronic Projects </h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b></b>
+  - ([m5StackCore2-Multiplication-and-Addition-Game](https://github.com/halilbaris/m5StackCore2-Multiplication-and-Addition-Game))
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
