@@ -8,7 +8,7 @@ Electronic enthusiastic </a>, <a href="https://www.linkedin.com/in/halilbaris/">
   - ([SaatHavaOtaWebserver] (https://github.com/halilbaris/SaatHavaOtaWebserver)
   - https://github.com/halilbaris/Kulucka_V1
   - https://github.com/halilbaris/Mutfak-Zamanlayicisi
-  -(INTERNATIONAL COMPUTER OLYMPIAD GOLD MEADAL(2011-2012) ) https://github.com/halilbaris/Sera-Projesi-1
+  - (INTERNATIONAL COMPUTER OLYMPIAD GOLD MEADAL(2011-2012) ) https://github.com/halilbaris/Sera-Projesi-1
   - https://github.com/halilbaris/AP_mini_hava_ESP-01
   - https://github.com/halilbaris/Online-Hava-Istasyonu-20x4-LCD
   - https://github.com/halilbaris/AP_mini_hava_ESP-01
