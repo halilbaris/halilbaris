@@ -1,4 +1,5 @@
-<h1>Hi, I'm Baris! <br/><a href="https://github.com/halilbaris">Cybersecurity Analyst and Electronic enthusiastic </a>, <a href="https://www.linkedin.com/in/halilbaris/">Cybersecurity Professional</a> </h1>
+<h1>Hi, I'm Baris! <br/><a href="https://github.com/halilbaris">Cybersecurity Analyst 
+Electronic enthusiastic </a>, <a href="https://www.linkedin.com/in/halilbaris/">Cybersecurity Professional</a> </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
